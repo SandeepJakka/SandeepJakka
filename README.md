@@ -43,7 +43,7 @@
 - **SmartSDLC**  
   AI-Enhanced Software Development Lifecycle automation using LLMs to assist requirement analysis, design insights, and development stages.
 
-- **SmartPolicyAnalyzer**  
+- **Entity**  
   LLM-powered system for querying large insurance policy documents (PDF/DOCX/Emails) with accurate, explainable answers.
 
 - **HealthOra**  
@@ -52,7 +52,7 @@
 - **Sentiment Analysis Chat Application**  
   NLP-powered chat system that analyzes user sentiment and generates contextual responses using transformer models.
 
-- **Logit Project**  
+- **LogIt**  
   LogIt is a developer productivity platform for tracking projects, tasks, learning logs, and progress in one unified dashboard.
 
 ---
