@@ -67,10 +67,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepJakka&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepJakka&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### GitHub Activity Graph
